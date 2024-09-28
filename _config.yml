@@ -12,6 +12,8 @@ collections:
   posts:
     output          : true
 remote_theme: pages-themes/midnight@v0.2.0
+title: Riplomacy Map Request Tool
+
 
 # Handling Reading
 safe                : false
