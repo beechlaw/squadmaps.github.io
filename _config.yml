@@ -13,7 +13,7 @@ collections:
     output          : true
 remote_theme: pages-themes/midnight@v0.2.0
 title: Riplomacy Map Request Tool
-description: Created by Cryhavoc. Updated 9.28.24.
+description: 
 github:
   is_project_page: false
 
